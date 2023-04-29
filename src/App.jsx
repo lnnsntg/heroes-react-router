@@ -1,12 +1,8 @@
-import './App.css'
-
-function App() {
- 
-
+function App () {
   return (
-    <div className="App">
-      <h3>Lenin Santiago</h3> 
-    </div>
+    <>
+      <h1>HeroesApp</h1>
+    </>
   )
 }
 
